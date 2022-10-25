@@ -63,3 +63,6 @@ plt.scatter(centroid[0][0],centroid[0][1],s=50, marker='x')
 plt.scatter(centroid[1][0],centroid[1][0],s=50, marker='x')
 
 plt.show()
+
+# credit to Tan Pham - pntan.iac@gmail.com
+
